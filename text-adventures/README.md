@@ -1,2 +1,1 @@
-# text-adventures
-Text Adventures
+# Text Adventures
