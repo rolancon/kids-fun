@@ -9,6 +9,7 @@ If your do not run `io_static` then you will also need:
 
 Run:
 `io number-guess.io`
+
 or it the file has been made executable (on Linux or MacOS):
 `./number-guess.io`
 
