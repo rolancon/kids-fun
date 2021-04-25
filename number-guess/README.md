@@ -2,6 +2,7 @@
 
 Requirement:
 - Io language (https://iolanguage.org/binaries.html)
+
 If your do not run `io_static` then you will also need:
 - Eerie package manager (https://github.com/IoLanguage/eerie)
 - Random package (https://github.com/IoLanguage/Random.git)
