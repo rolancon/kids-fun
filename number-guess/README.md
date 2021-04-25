@@ -7,7 +7,9 @@ If your do not run `io_static` then you will also need:
 - Random package (https://github.com/IoLanguage/Random.git)
 
 Run:
-`io number-guess.py`
+`io number-guess.io`
+or it the file has been made executable (on Linux or MacOS):
+`./number-guess.io`
 
 Instructions:
 
